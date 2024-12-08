@@ -1,6 +1,6 @@
 .env
 vite.config.js
-public/assets/*
+frontend/public/*
 
 
 # Logs

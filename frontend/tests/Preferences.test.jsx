@@ -25,7 +25,7 @@ describe("Continent Page", () => {
 
     });
     
-    test("Continet page renders with correct heading", () => {
+    test("Continent page renders with correct heading", () => {
         render(
             <Router>
                 <PreferencesProvider>
